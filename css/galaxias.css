@@ -1,0 +1,42 @@
+p{
+    padding: 10px 150px 20px 00px;
+    font-size: 50px;
+} 
+ul{
+    list-style: none;
+}
+.texto{
+    font-size: 20px;
+    width: 200px;
+    padding: 30px 90px 30px 90px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin: 0px 0px 0px 30px;
+}
+.cuadro{
+    width: 400px;
+    display: flex;
+    padding: 0px 0px 0px 50px;
+    
+    
+}
+.texto2{
+    font-size: 20px;
+    width: 200px;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin: 0px 0px 0px 200px;
+}
+.boton{
+    padding: 17px 34px 17px 34px;
+    background-color: orange;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.boton:hover{
+    transition: 0.2s;
+    background-color:chocolate;
+    padding: 17px 39px 17px 39px;
+}

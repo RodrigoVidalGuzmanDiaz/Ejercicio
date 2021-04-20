@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    padding: 60px 150px 55px 80px;
+    font-size: 50px;
+} 
+ul{
+    list-style: none;
+}
+
+.planeta{
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 50px;
+    
+}
+.planeta:hover{
+    width: 210px;
+    transition: 0.5s;
+    background-color: coral;
+}
+.planetai{
+    width: 200px;
+    padding:10px; 
+    margin: 0px 10px 0px 0px; 
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.planetai:hover{
+    width: 210px;
+    transition: 0.5s;
+    background-color: coral;
+}
