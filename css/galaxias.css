@@ -11,12 +11,13 @@ ul{
     padding: 30px 90px 30px 90px;
     border: 1px solid black;
     border-radius: 50px;
-    margin: 0px 0px 0px 30px;
+    margin: 0px 0px 0px -300px;
 }
 .cuadro{
     width: 400px;
     display: flex;
-    padding: 0px 0px 0px 50px;
+    flex-direction: row;
+    margin: auto;
     
     
 }
@@ -39,4 +40,8 @@ ul{
     transition: 0.2s;
     background-color:chocolate;
     padding: 17px 39px 17px 39px;
+}
+
+.titulo{
+    text-align: center;
 }
